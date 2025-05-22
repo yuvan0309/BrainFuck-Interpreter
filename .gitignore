@@ -1,0 +1,56 @@
+# Compiled binary executables
+brainfuk
+brainfuk_*
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*~
+*.bak
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build directories
+build/
+bin/
+obj/
+
+# Temporary files created during compilation/execution
+temp/
+tmp/
+
+# Core dumps
+core
+
+# Generated documentation
+doc/
+docs/generated/
+
+# Dependency files for make
+*.d
+
+# Certain test files
+test_output/
+*.test
+
+# Private notes or configuration
+notes.txt
+config.local
